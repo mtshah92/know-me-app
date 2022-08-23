@@ -15,11 +15,11 @@ function qna(userAnswer, answer) {
 var quiz = [
   {
     question: "Where do I Live?",
-    answer: "himatnagar",
+    answer: "hmt",
   },
   {
     question: "Where I work?",
-    answer: "wipro",
+    answer: "wip",
   },
 ];
 
